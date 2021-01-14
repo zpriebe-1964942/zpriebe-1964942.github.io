@@ -1,0 +1,32 @@
+body {
+  max-width: 1000px;
+  padding: 60px;
+  margin: auto;
+  font-size: 24px;
+  font-family: "Open Sans", sans-serif;
+}
+
+h1, h2, #p1 {
+  font-family: 'Poppins', sans-serif;
+}
+
+#pictures img {
+  width: 50px;
+  height: 50px;
+}
+
+#big-picture {
+  text-align: center;
+}
+
+#big-picture img {
+  width: 500px;
+  margin: 20px;
+  border: 4px solid rgb(90, 90, 90);
+  border-radius: 8px;
+}
+
+#special-text {
+  border-style: dotted;
+  float: right;
+}
