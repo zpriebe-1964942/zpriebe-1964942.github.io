@@ -1,0 +1,26 @@
+.snail {
+  padding: 50px;
+  color: aliceblue;
+  font-size: 72pt;
+}
+.snail h3 {
+  font-size: 36pt;
+}
+
+.snail p {
+  color: aliceblue;
+  font-size: 18pt;
+}
+
+#contact-us {
+  padding: 50px;
+  margin-top: 80px;
+}
+
+#snail-img img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
